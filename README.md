@@ -114,18 +114,8 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## **License**
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
 ## **Author**
 
 **Zakaria**  
-- **GitHub:** [Your Profile](https://github.com/<your-username>)  
-- **Email:** zakaria@example.com  
-
----
-
-Feel free to copy-paste this into your repository, replacing placeholders like `<your-username>` with your actual GitHub username and adjusting any other details as needed! 😊
+- **GitHub:** [My Profile]([https://github.com/Ghanimzakaria])  
+- **Email:** zakariaghanim@gmail.com  
