@@ -95,24 +95,7 @@ To-Do-List-App/
 
 ---
 
-## **Future Enhancements**
 
-- Add user authentication for personalized task management.
-- Integrate a real database and backend service.
-- Implement drag-and-drop functionality for reordering tasks.
-- Add a progress visualization feature using charts.
-
----
-
-## **Contributing**
-
-Contributions are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`feature/your-feature`).
-3. Commit your changes.
-4. Push to your branch and create a pull request.
-
----
 
 ## **Author**
 
