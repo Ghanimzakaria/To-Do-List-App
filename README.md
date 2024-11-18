@@ -117,5 +117,5 @@ Contributions are welcome! Please follow these steps:
 ## **Author**
 
 **Zakaria**  
-- **GitHub:** [My Profile]([https://github.com/Ghanimzakaria])  
+- **GitHub:** [My Profile](https://github.com/Ghanimzakaria)  
 - **Email:** zakariaghanim@gmail.com  
