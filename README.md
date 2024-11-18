@@ -87,11 +87,11 @@ To-Do-List-App/
 
 ## **Screenshots**
 
-### **Main Interface**
-![Main Interface](https://via.placeholder.com/800x400?text=Screenshot+1)
-
 ### **Task Form**
-![Task Form](https://via.placeholder.com/800x400?text=Screenshot+2)
+![Main Interface](main_page.png)
+
+### **Task List**
+![Task Form](tasks_list.png)
 
 ---
 
