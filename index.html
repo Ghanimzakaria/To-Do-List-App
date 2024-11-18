@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List App</title>
+    <link rel="stylesheet" href="style.css">
+    <script src = "script.js" defer></script>
+</head>
+<body>
+    <h1>To-Do List</h1>
+    <div class="task-form">
+        <h2 id="titre">Ajouter une Tâche</h2>
+        <form id="task-form">
+            <input type="text" id="task" placeholder="Task Name" required />
+            <textarea id="description" placeholder="Task Description" required></textarea>
+            <input type="text" id="category" placeholder="Category" required />
+            <input type="date" id="when" required />
+            <input type="text" id="priority" placeholder="Priority" required />
+            <input type="number" id="fulfillment" placeholder="Fulfillment %" required />
+            <button type="submit">Ajouter</button>
+        </form>
+
+    </div>
+    <h2>Liste des Tâches</h2>
+    <div class="task-list" id="task-list">
+
+        <button onclick="filterTasks('all')">Toutes</button>
+        <button onclick="filterTasks('todo')">À faire</button>
+        <button onclick="filterTasks('completed')">Complétées</button>
+        <table>
+            <thead>
+                <tr>
+                    <th>Tâche</th>
+                    <th>Description</th>
+                    <th>Catégorie</th>
+                    <th>Échéance</th>
+                    <th>Priorité</th>
+                    <th>Avancement</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody id="task-table">
+                <!-- Les tâches seront insérées ici par JavaScript -->
+            </tbody>
+        </table>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

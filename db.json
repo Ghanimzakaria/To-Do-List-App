@@ -1,0 +1,31 @@
+{
+  "tasks": [
+    {
+      "task": "Learn JavaScript",
+      "description": "Async functions, Promises, DOM manipulation",
+      "category": "Programming",
+      "when": "2024-11-18",
+      "priority": "High",
+      "fulfillment": 100,
+      "id": "1"
+    },
+    {
+      "task": "practicing JavaScript",
+      "description": "z",
+      "category": "z",
+      "when": "2024-11-01",
+      "priority": "medium",
+      "fulfillment": 31,
+      "id": "a328"
+    },
+    {
+      "task": "test1",
+      "description": "test11",
+      "category": "test1",
+      "when": "2024-11-06",
+      "priority": "high",
+      "fulfillment": 100,
+      "id": "fc4d"
+    }
+  ]
+}
